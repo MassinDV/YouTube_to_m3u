@@ -12,64 +12,265 @@
 
 
 #EXTINF:-1 group-title="Learning" tvg-logo="https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png" tvg-id="", ABC Learning English
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676247516/ei/fC3pY9CgA47q8wTUs7LgCQ/ip/172.176.191.112/id/F8gbJUXaeo0.2/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALU_PHNLApDIqfHYdBmvdCai4w_-vcTXwm-sOHJ05l-EAiEAkN6Hwn5-cLVcp7jdeEs_DfsdS5pwJQzumVYzYGZlTwQ%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676249114/ei/uTPpY9X3OpqNhgbTsqKgDg/ip/104.45.200.192/id/F8gbJUXaeo0.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKXVV1_Y83UK2f7D6HZnSU9N6f8WUnfq8CU-RL3uLmzPAiEAkSN4BHYRsVDFQmzc-0Nw41Ox_qD37xb8l5R267_pgLk%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Learning" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Kairali_News.jpeg/revision/latest/scale-to-width-down/300?cb=20191221124115" tvg-id="", Learn Dutch
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676247516/ei/fC3pY-mcGM3N8wTqiKqgDA/ip/172.176.191.112/id/eojuzmpQPPw.1/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfBwhDroLKAgO_UoJxINx6IYED2IBPrz5b3o2LyJsHFcCIQCuoqR0IVSK-7mFSzv1EY40Kdcu_eHdD-aRE6c6CkixJA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676249114/ei/ujPpY-aSGs-rhwb8k4QQ/ip/104.45.200.192/id/eojuzmpQPPw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMy4vqlKzZ9rCdL3fKnqsTsbuNqBLjy4tjPNz5gEPcTZAiEA0t-cSgOAXyYs610etjv-K8iU_FO37psRxrKBqsHSTic%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Learning" tvg-logo="" tvg-id="", Learn Turkish
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676247516/ei/fC3pY7qtM5OVhgbb2aEY/ip/172.176.191.112/id/8Gu7SVcZGvw.1/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgfu1PM0qoF1nyto6N9wYmtiReQC4_oasnF_rn9_MvX1kCIGmMZ16Ar5D8Q2WKIKLWk_nL8y-ycUA-h0lpL497MfDU/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676249114/ei/ujPpY-74NYee8wTOsJ6IAg/ip/104.45.200.192/id/8Gu7SVcZGvw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPrFOv6QkbteL-ptC7cxWv2LFUtLeQzYo7F8p-wLSUvcCIE1IEsWFr31JwVCWspuVPqL0AflAnZO130tx-4HFrxUA/file/index.m3u8
 
 #EXTINF:-1 group-title="Learning" tvg-logo="" tvg-id="", Learn Danish
 https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
 
 #EXTINF:-1 group-title="Learning" tvg-logo="" tvg-id="", Learn Japanese
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676247518/ei/fi3pY821Ioft8wSnh7qYDQ/ip/172.176.191.112/id/r4IIGxAcRpg.1/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgaMvzIlkESbWpxrBOsnjdlIXsV6Q0cf5PFz6iF-pJE5oCIQCTEH_QWb6LX3FOa8ifuAiDe_nUe0e6VnEn5tSFmiyhXQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676249116/ei/vDPpY9i0INDl8wSkk5_IBw/ip/104.45.200.192/id/r4IIGxAcRpg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOIq1dR4Yg94Ov4Y3UCPnK9yUb1dJiWvKMK4kjabbfX0AiBK3EEJlwNEFL0DfvJVcQrtG_RriPxED6IrtmhvjZc70Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Learning" tvg-logo="" tvg-id="", Learn Thai
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676247519/ei/fi3pY_6bOsfD8wT1koCwCw/ip/172.176.191.112/id/euz4PWb8uMY.1/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANLVpD02ZFKOu9GrQtiMOFRYysV2eGdWUBVp7N5rN-RtAiBaOo8t6ODPxtULDOHqcmQbn7hGXmbfRVkMbjepy5AZVg%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676249117/ei/vDPpY8_kN4nRhgbDnJjwDQ/ip/104.45.200.192/id/euz4PWb8uMY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJt1q-1ZRl3sm57Y4_QCv0-wFFamT6j57FtdJW23URjKAiBYlVST1kJFfGtc6zGbCDjQ_3qWO2iBg3PIgIn2acOz_w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Learning" tvg-logo="" tvg-id="", Learn Greek
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676247519/ei/fy3pY8DxE8ed8wSOra7oDA/ip/172.176.191.112/id/cdJPkSfNnL4.2/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMzXzxXiLLzfa7bZfa4Bj7uYBdnpS99QP9Lm-_bGgiKKAiEAh64AR9Ii08-QgKBz625C6Q2sQflPDrp6V0tyPOfirxE%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676249117/ei/vTPpY_T_Fo7l8wS56bDwAQ/ip/104.45.200.192/id/cdJPkSfNnL4.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgJ09hF5hz3DbNErL2XLV1g7bdq0f3gGcxEiC_tnyX_IICIHHGEwAHWMvQAIWoNXdefOvI3EifRa1aCYjOmOLKlK6t/file/index.m3u8
 
 #EXTINF:-1 group-title="Learning" tvg-logo="" tvg-id="", Learn Arabic
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676247519/ei/fy3pY9mWLYW_8wT-_4bgDw/ip/172.176.191.112/id/xhMx3mag62E.1/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKibIPAHu0_q4buIfBgqKy3WczLgAGJ9_5KcmZPoEO2fAiBmMtAWpLL38qlrJWUT4lXu4nVYrwXIxAockxHu77WYDg%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676249117/ei/vTPpY7DVMMbB8wT8_ZPIDg/ip/104.45.200.192/id/xhMx3mag62E.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPNdPILavNNQYyAQeuxd1OMPQcYC-it7tDmoFwyOO5D2AiEA-M41Y3gE-XXHJxixeYNNDwaNR5O2LhWzLHp27dff3ZM%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Learning" tvg-logo="" tvg-id="", Learn Hungarian
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676247520/ei/gC3pY_2eBtLh8wSD8oeoDQ/ip/172.176.191.112/id/OODX90FfpXc.2/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJmEa4G1KtyjLNgd46dhs3L5QqIN67lmosG_LF4q7fj0AiBxJFNMctRzMSfv84V4bon0w3tmItFZZlZ8nyIhKlQxHQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676249118/ei/vjPpY4bEDZTThgbz_ZqADw/ip/104.45.200.192/id/OODX90FfpXc.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYPh6e2S1lCWTDYwxhqnT20M5WbpWG6-MGcj8unseypsCIQDD06C1MaSN_2a7F1Tqhc3jVLwhmLZl-V2Ayk9RQgVoAQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Learning" tvg-logo="" tvg-id="", Learn Swedish
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676247520/ei/gC3pY9ydH4Oc8wSan5vYDA/ip/172.176.191.112/id/ujnW8Iarjio.1/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgT9j3ZXmP2YLvSflDYhizxiwHfbgymN5cSxlNKAyvSqsCIESeeb4WY_ndSekXDtLRUh_e4q9N98gszePWO5GhS2Iw/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676249118/ei/vjPpY7aCKpjihgbqiYH4Dg/ip/104.45.200.192/id/ujnW8Iarjio.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJX7iRf8vAl8uhf1bO-Fj-rmVPdVOxjt75tCQsS-9obtAiEA0h5pudMY77_9iQCTYOYLLyR1-hLgPFN6I5ikruZY7KU%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Learning" tvg-logo="" tvg-id="", Learn Swahili
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676247520/ei/gC3pY-rJNc648wTT17SYDA/ip/172.176.191.112/id/du1cauZNzhM.1/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMorfOXTF4P2z4rKlE6ecOpQr5niKlFVyL5A9B-hbrUBAiAvVT4rU7fNn91VYsOiL-r49CJYg1wlHpkpCmnwJ871uw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676249119/ei/vzPpY9-CCceY8wS13arYDA/ip/104.45.200.192/id/du1cauZNzhM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgNh7-tzfkCWm9QmSxKgoAUsBUKgmlMZB02nFlgTVNLfQCIQCGfbpGtVOyAc2i588lfZdgunft64Y1b40WzeSbCx5z4g%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Learning" tvg-logo="" tvg-id="", Learn Filipino
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676247521/ei/gS3pY-PRDJPT8wS1-7-QDA/ip/172.176.191.112/id/xOIwYe0_pwg.1/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCtpKmrCA-zdPAIO9PGKKRX4s0x5tODm2nH0iqV034QoCIHD1BFBl8MjyluBoguRkmH9R6HdbGTpvHnde3hcplmAO/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676249119/ei/vzPpY526HpPU8wTp3auoDQ/ip/104.45.200.192/id/xOIwYe0_pwg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgORZznKA4T6tqqH_EUyNY88ciI-3csg2n4Dd1ef8XANwCIQCOiSJuGU78KNPWYlCQ65xh9XH48Q68kI3Nu-izM-e-tg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Learning" tvg-logo="" tvg-id="", Learn German
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676247521/ei/gS3pY57HIpfchga69bbADg/ip/172.176.191.112/id/IPoh6Lr6BAw.1/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLAj3NVNr5c0YwxUozZKPWFPhtu_iFN_Q5C2hVSpt_xwCIHg7rFI9zgor8VMSPC8HVpjRz2cGCXwLQM-CyZ1ZW_n0/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676249120/ei/vzPpY8CROIfm8wSgn6jgDA/ip/104.45.200.192/id/IPoh6Lr6BAw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOyGv_2hudE_BgupGunu45CUhlFoSkuiAXYHFELnKZA4AiB7crDOZ61vsrt_1A25O5OG_h0R5g6sboeMiFte7bxtdQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Learning" tvg-logo="" tvg-id="", Learn Italian
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676247522/ei/gi3pY5a1AbGKhwaWiKnADg/ip/172.176.191.112/id/B7jdaQ0LFo4.1/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAP_Jfv7H7PuiVKMVf5XBmBduP30n323Uqsg5762OU7DdAiBhzyYUU7M6rjxcGvj9G_4wmp9Qr5POnPRGq0Wm7vNP_g%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676249120/ei/wDPpY4rfFZjuhgbYr7rADg/ip/104.45.200.192/id/B7jdaQ0LFo4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgDs4eaN2mUvOPPXgUdhOh3_ssX_jzR6FA4xCm3KdZxhcCIQDOdZ26MQI44zosIX7NtvHmEvcPbyllOrXNPj-iCuCKSQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Learning" tvg-logo="" tvg-id="", Learn French
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676247522/ei/gi3pY62SHc2lhwa647nwCw/ip/172.176.191.112/id/uEVREFspKXQ.1/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgMKwmCUUBCEzFYxoAOHDe76UAuF47fX0FCi-FzqFiZ90CICCs4kd9NgjVJQjivwiHGZTLF6iiTYek6ZrbwlIuSiwL/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676249120/ei/wDPpY6PqMM3n8wSvsL6IDg/ip/104.45.200.192/id/uEVREFspKXQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANj7S2goBhyCvCyKtThKMnEErrUyentEoBBw9yy3zL6GAiBFZFLQRTbef2xt83z9JvI2W4wyGYj04MB4LMzEg7oBXA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Learning" tvg-logo="" tvg-id="", Learn Spanish
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676247523/ei/gi3pY4amOcqf8wTw-oZQ/ip/172.176.191.112/id/9fLGKC9HTZE.1/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPU_HbHMyEF48Y5c9QWjLOvXKvz5fIZ8USV_fjgJS9sACIDTGbjXu1V2eST8N6yspdMyJ0I4em6K3q_En7Fd99PjD/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676249121/ei/wTPpY9i8D5auhgbI47SADg/ip/104.45.200.192/id/9fLGKC9HTZE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAN4uLmn-VsvC67GigxQy5hiplaUTLzvWf6n_XZOmd1J3AiBgIQ523YD2zCBsA9W0vktjm4yNwlSbZyVep2QVVF06YQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Learning" tvg-logo="" tvg-id="", Learn Korean
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676247523/ei/gy3pY7nXE8zT8wTP8qqYDg/ip/172.176.191.112/id/0RJ2aIuwVFo.1/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAK2Mdcf4dILgRJEoke0_S4RPag9_evnIan_HUO2n2156AiBpvvWcfcDcxL4748bsgpoM7meXdiiTdGN8z2LWMt4v7g%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676249121/ei/wTPpY8ykKqKqhwad06KgDg/ip/104.45.200.192/id/0RJ2aIuwVFo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPvVlM7j2hg5aDCOMCWDPbNhDSqC_UbskPsCvWY6XJk6AiEA3wJcecwqMhB8pPSMoLMqQKcTpDXwL_0IyjrNRQJT6j8%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Learning" tvg-logo="" tvg-id="", Learn Chinese
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676247524/ei/gy3pY_PWOcjr8wTVmqGABg/ip/172.176.191.112/id/xISASE8uezM.1/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMMCNwqz-5dF4M9DSQlcqWT-hhmElBkfQuQXaOBsVLLLAiEAxJBj4oEc2QhIe7Ytbn7FxnsSDhXCaV3ustXxCu_CPUc%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676249122/ei/wjPpY_j4BIXJhga5z4OYAw/ip/104.45.200.192/id/xISASE8uezM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgDcfjkCZIl8wApd7P4oEOIoEzrEiiS-Qmh6BPlfBUd5sCIFjss3EX1N_vQ7bdkWQyGmzcp3m5n1nhkFKYi4kU8hhL/file/index.m3u8
 
 #EXTINF:-1 group-title="Learning" tvg-logo="" tvg-id="", Learn Cantonese
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676247524/ei/hC3pY8a9IcfU8wTBrKfgDQ/ip/172.176.191.112/id/7n3o2wGob2k.1/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgFPxuFnoIkPh1JoEMu1TLttWVgLze7mS-ydH5o5FjhG8CIAcGdT1qoeRMSOEKsWD8gJdH0ciZ2J6FP55g_aXF-Wou/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676249122/ei/wjPpY9uNIYmphgaR14P4DQ/ip/104.45.200.192/id/7n3o2wGob2k.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKHjYVjpsekelpiZvP8dAHOBQe8ye4afj2OZ3vy1KUrGAiAyWUH4YPh3lR06Mp-D3gLz8p9XPug4pNJkJ0rsdP-ngw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Learning" tvg-logo="" tvg-id="", Learn Urdu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676247525/ei/hC3pY73nOpGwhgbJ0IMw/ip/172.176.191.112/id/cmwSeKnrWDg.1/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCUv2mA1HQfzHNonR9jHJKCTtcMp8e2ETtJYPgFyqaNsCIF8FRX-92a64HBiVR50xRf4Hd3b5zTf9uGCRhflsxQIK/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676249123/ei/wjPpY4-DPZSwhga4m7GADg/ip/104.45.200.192/id/cmwSeKnrWDg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAN5ZfryRObdtYPPtVcQG2XVJGZMdMq-R0ZmlAFbDExfgAiEAub1PpN3MH-ol5LZrffR8pVIinAgGjJOnpklOg2DZqVw%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Learning" tvg-logo="" tvg-id="", Learn Romanian
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676247525/ei/hS3pY8HKHIGPhgae0bKYDw/ip/172.176.191.112/id/iWfyFgLXOQY.1/source/yt_live_broadcast/requiressl/yes/tx/24438949/txs/24438945%2C24438946%2C24438947%2C24438948%2C24438949%2C24438950%2C24438951/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgbMGS3AntkC4_g0iqyRTvZm4yjJUy-lzmRdaaJ0Dr8w8CIQCUbgGooXDB_A725UMygAdeKUxGsWimYSqk3burJHelUw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676249123/ei/wzPpY_mWHIbQhgaC9oHgAw/ip/104.45.200.192/id/iWfyFgLXOQY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfKDOrMECsVZhqLHnvxqlQQQ49qk6JRhUzm2Cnaa_6xACIQCcS5-2zwGgdp0zlVMogtVKfhb425RS5IFyHY1T_uHIrQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Superjojo
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Billionsurprisetoys
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Mayaandmary
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Wolfoofamily
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Babytv
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Babyeinstein
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Bebefinn
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Songsforkidsen
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Wolfooandfriend
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Wolfookidssongs
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Lellobeebycocomelon
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Pawpatrolofficial
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Braxtonand Ryder Show
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Super Simplesongs
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Sunny Bunnies
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Kedoo Toons Tv
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Hoopla Halloween
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", First Toons
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Heroes Cartoon-Dinocore
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Wolfoo Channel
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Pocoyoe Nglish
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Strawberryshortcake
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Tstudi O1
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Sisters Funtube 2 Deemaand Sally
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", With Kids Toys
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Super Jojo Play Time
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Cocomelon Playtime
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Moonbug Kids_Cartoonnursery
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Totoy English
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Enjoworld Tv
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Den Lion Tv
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Babybus Carsworld
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Wolfoos Stories
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Dinocore Super Heroe Sofficial
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Colour Blocks
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Thesoft Roots
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Talking Friends
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Pokemon Kids Tv
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Chuchu Tv
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Totoy Espanol
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Wolfooseries Officialchannel
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Leothe Truck
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Gobuster Cartoons
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Booba
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Oddbods Cartoons
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Hop Hopthe Owl
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Baby Alive Official
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Lingo Kids
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Mike And Mia
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Funny Max Show
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Jugnu Kids Baby Songs
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Booya Kids Cartoon Videos
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Nunu Tv Nursery Rhymes
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Power Rangers Kids
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Baby Bus
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Peppa Pig Hindi
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Jugnu Kids Bangla
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Fanchantee
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Girlst Toyzz
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Baby Bus Tv Kidscartoon
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Lionfamily English
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Surpr Isejoe
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", funny story with Samy
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Video Gyan Kids Shows Childre6054
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Clever Cars Tv
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", 3abn Kids Network
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
+
+#EXTINF:-1 group-title="Kids Tv" tvg-logo="" tvg-id="", Sami Anda Mira
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/offline-en.mp4
