@@ -1,19 +1,27 @@
-name: Run Radio Stream every 5 minutes
+name: Run Radio Streams every 10 minutes
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/10 * * * *"
 
 jobs:
-  radio_stream:
+  radio_streams:
     runs-on: ubuntu-latest
 
     steps:
       - name: Check out the code
         uses: actions/checkout@v2
 
-      - name: Run Radio Stream
+      - name: Run Radio Streams
         run: |
-          # Replace the URL with your desired radio stream URL
-          radio_stream_url="https://stream-149.zeno.fm/vqzasnxok3vvv"
-          curl -sSf $radio_stream_url > /dev/null
+          radio_stream_urls=(
+            "https://stream-151.zeno.fm/a9ygbmrgnshuv"
+            "https://stream-152.zeno.fm/rb361kymjhnuv"
+            "https://stream-149.zeno.fm/ulzqlslidhktv"
+            "https://stream-149.zeno.fm/oqsdwetvprptv"
+            "https://stream-152.zeno.fm/s821b2cv538uv"
+          )
+
+          for url in "${radio_stream_urls[@]}"; do
+            curl -sSf "$url" > /dev/null
+          done
